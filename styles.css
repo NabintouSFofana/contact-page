@@ -37,7 +37,7 @@ form {
     border-bottom: 1px solid #fff;
     color: #fff;
     font-size: 18px;
-    margin-bottom: 16px
+    margin-bottom: 80px
 }
 
 input {
@@ -53,7 +53,7 @@ form .submit {
     font-weight: bold;
     letter-spacing: 2px;
     height: 50px;
-    margin-top: 20px;
+    margin-top: 50px;
 }
 
 form .submit:hover {
